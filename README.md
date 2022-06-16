@@ -24,4 +24,4 @@ A REMPLIR !!!!!!!
 
     Mentions legales -----> 13px   Interligne: 15.6px           Font: Netflix sans regular
 
-    Copyright ----->    Interligne: 15.6px
+    Copyright 11 px----->    Interligne: 15.6px
